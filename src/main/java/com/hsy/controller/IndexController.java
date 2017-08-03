@@ -18,7 +18,7 @@ import com.hsy.service.DatabaseService;
 import com.hsy.utils.CommonConstant;
 
 
-/**
+/**hahahahahahahahah
  * 首先查询出所有的数据库，用dtree显示在页面左侧
  * @author Administrator
  *
@@ -28,6 +28,9 @@ import com.hsy.utils.CommonConstant;
 public class IndexController {
 	@Autowired
 	private DatabaseService databaseService;
+	
+	
+	
 	
 	@Autowired
 	private CommonService commonService;
